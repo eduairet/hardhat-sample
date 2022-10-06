@@ -1,3 +1,7 @@
+#Misc
+.DS_Store
+
+#Node
 node_modules
 .env
 coverage
